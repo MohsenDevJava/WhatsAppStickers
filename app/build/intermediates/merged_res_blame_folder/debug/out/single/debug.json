@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxhdpi_sticker_3rdparty_email.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxhdpi/sticker_3rdparty_email.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl15.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl15.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_harley.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/harley.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxxhdpi_sticker_3rdparty_privacy.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxxhdpi/sticker_3rdparty_privacy.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/font_googlefont.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/font/googlefont.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xhdpi_sticker_3rdparty_web.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xhdpi/sticker_3rdparty_web.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_spidey.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/spidey.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_content_main.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xhdpi_sticker_3rdparty_privacy.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xhdpi/sticker_3rdparty_privacy.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl5.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl5.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-hdpi_sticker_3rdparty_info.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-hdpi/sticker_3rdparty_info.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl12.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl12.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxhdpi_sticker_3rdparty_added.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxhdpi/sticker_3rdparty_added.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_tweet.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/tweet.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xhdpi_sticker_3rdparty_add.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xhdpi/sticker_3rdparty_add.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl13.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl13.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl6.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl6.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-mdpi_ic_action_share.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-mdpi/ic_action_share.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xhdpi_sticker_3rdparty_info.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xhdpi/sticker_3rdparty_info.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-mdpi_ic_action_menu.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-mdpi/ic_action_menu.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/anim_slide_out_left.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-hdpi_ic_action_share.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-hdpi/ic_action_share.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_webh.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/webh.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_activity_entry.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/activity_entry.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/anim_slide_in_top.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/anim/slide_in_top.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_porn.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/porn.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-hdpi_ic_action_menu.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-hdpi/ic_action_menu.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxxhdpi_sticker_3rdparty_wa.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxxhdpi/sticker_3rdparty_wa.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl10.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl10.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl3.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl3.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxhdpi_sticker_3rdparty_web.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxhdpi/sticker_3rdparty_web.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxxhdpi_ic_action_menu.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxxhdpi/ic_action_menu.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-hdpi_sticker_3rdparty_web.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-hdpi/sticker_3rdparty_web.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxxhdpi_sticker_3rdparty_web.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxxhdpi/sticker_3rdparty_web.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_sticker_pack_list_item_image.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/sticker_pack_list_item_image.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_heart.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/heart.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl0.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl0.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_sticker_image.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/sticker_image.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xhdpi_sticker_3rdparty_wa.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xhdpi/sticker_3rdparty_wa.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-hdpi_sticker_3rdparty_added.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-hdpi/sticker_3rdparty_added.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_play.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/play.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/anim_slide_in_bottom.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xhdpi_ic_action_share.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_got.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/got.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_rage.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/rage.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_circlepl.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/circlepl.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_tuziki.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/tuziki.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_activity_sticker_pack_info.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/activity_sticker_pack_info.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/anim_fadein.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/anim/fadein.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/anim_fade_in.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/anim_slide_in_right.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/menu_toolbarinfo.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/menu/toolbarinfo.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-mdpi_sticker_3rdparty_info.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-mdpi/sticker_3rdparty_info.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/anim_slide_out_right.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_wolv.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/wolv.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl1.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl1.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-hdpi_sticker_3rdparty_wa.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-hdpi/sticker_3rdparty_wa.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxxhdpi_sticker_3rdparty_add.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxxhdpi/sticker_3rdparty_add.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_sticker_pack_details.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/sticker_pack_details.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_layout_slider_card.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/layout_slider_card.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl8.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl8.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-hdpi_sticker_3rdparty_add.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-hdpi/sticker_3rdparty_add.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout-land_content_main.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout-land/content_main.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_activity_about.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl2.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl2.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-hdpi_sticker_3rdparty_privacy.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-hdpi/sticker_3rdparty_privacy.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxhdpi_ic_action_share.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_ariana.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/ariana.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout-land_activity_about.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout-land/activity_about.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl9.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl9.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_activity_splash.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/anim_slide_out_top.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/anim/slide_out_top.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_elon.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/elon.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxhdpi_sticker_3rdparty_add.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxhdpi/sticker_3rdparty_add.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_homer.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/homer.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_magic_image.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/magic_image.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_camera2.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/camera2.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxhdpi_sticker_3rdparty_info.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxhdpi/sticker_3rdparty_info.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxhdpi_sticker_error.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxhdpi/sticker_error.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-hdpi_sticker_3rdparty_email.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-hdpi/sticker_3rdparty_email.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/anim_slide_out_bottom.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_val5.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/val5.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxhdpi_sticker_3rdparty_privacy.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxhdpi/sticker_3rdparty_privacy.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_bby.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/bby.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_love.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/love.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/anim_slide_in_left.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_sticker_packs_list_item.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/sticker_packs_list_item.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl7.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl7.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxxhdpi_sticker_3rdparty_added.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxxhdpi/sticker_3rdparty_added.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xhdpi_ic_action_menu.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xhdpi/ic_action_menu.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xhdpi_sticker_3rdparty_added.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xhdpi/sticker_3rdparty_added.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_activity_details.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/font_googleregular.ttf.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/font/googleregular.ttf"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxhdpi_ic_action_menu.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxhdpi/ic_action_menu.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxxhdpi_sticker_3rdparty_email.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxxhdpi/sticker_3rdparty_email.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xhdpi_sticker_3rdparty_email.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xhdpi/sticker_3rdparty_email.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_pubg.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/pubg.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxxhdpi_ic_action_share.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl4.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl4.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxhdpi_circle.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxhdpi/circle.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl14.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl14.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/anim_fade_out.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxxhdpi_sticker_3rdparty_info.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxxhdpi/sticker_3rdparty_info.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_scream.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/scream.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/layout_activity_sticker_pack_list.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/layout/activity_sticker_pack_list.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_sl11.jpg.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/sl11.jpg"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable_dead25.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable/dead25.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/menu_toolbar.xml.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/menu/toolbar.xml"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/drawable-xxhdpi_sticker_3rdparty_wa.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/drawable-xxhdpi/sticker_3rdparty_wa.png"
+    },
+    {
+        "merged": "com.mscompany.stickersms.app-merged_res-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.mscompany.stickersms.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

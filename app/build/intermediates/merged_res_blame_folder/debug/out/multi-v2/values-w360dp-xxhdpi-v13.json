@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mscompany.stickersms.app-mergeDebugResources-33:/values-w360dp-xxhdpi-v13/values-w360dp-xxhdpi-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mohsen\\Desktop\\MSAStickers\\app\\src\\main\\res\\values-w360dp-xxhdpi\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "110,57,178",
+                        "endColumns": "66,51,65",
+                        "endOffsets": "172,104,239"
+                    },
+                    "to": {
+                        "startLines": "15,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "804,871,923",
+                        "endColumns": "66,51,65",
+                        "endOffsets": "866,918,984"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mohsen\\Desktop\\MSAStickers\\app\\src\\main\\res\\values-w360dp-xxhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "14,13,6,12,3,10,2,11,5,4,8,7,9",
+                        "startColumns": "770,723,290,676,106,568,55,616,225,162,412,339,488",
+                        "startOffsets": "770,723,290,676,106,568,55,616,225,162,412,339,488",
+                        "endColumns": "52,45,47,45,54,42,49,58,63,61,74,71,78",
+                        "endOffsets": "814,760,333,713,156,606,100,666,284,219,482,406,562"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,148,197,240,296,340,391,447,512,575,651,724",
+                        "endColumns": "49,42,48,42,55,43,50,55,64,62,75,72,79",
+                        "endOffsets": "100,143,192,235,291,335,386,442,507,570,646,719,799"
+                    }
+                }
+            ]
+        }
+    ]
+}

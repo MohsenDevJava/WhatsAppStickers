@@ -1,0 +1,214 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mscompany.stickersms"
+4    android:versionCode="10"
+5    android:versionName="2.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission
+12-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:7:5-109
+13        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+13-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:7:22-78
+14        android:maxSdkVersion="28" />
+14-->[ds-photo-editor-sdk-v10.aar] C:\Users\Mohsen\.gradle\caches\transforms-3\e3c46bcaf6da478b0023ce8f068743af\transformed\jetified-ds-photo-editor-sdk-v10\AndroidManifest.xml:14:9-35
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:8:5-78
+15-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:8:22-76
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17
+18    <permission
+18-->[androidx.core:core:1.9.0] C:\Users\Mohsen\.gradle\caches\transforms-3\a62a03744c318ab5d07d884e967248ac\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+19        android:name="com.mscompany.stickersms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.9.0] C:\Users\Mohsen\.gradle\caches\transforms-3\a62a03744c318ab5d07d884e967248ac\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.9.0] C:\Users\Mohsen\.gradle\caches\transforms-3\a62a03744c318ab5d07d884e967248ac\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.mscompany.stickersms.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.9.0] C:\Users\Mohsen\.gradle\caches\transforms-3\a62a03744c318ab5d07d884e967248ac\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.9.0] C:\Users\Mohsen\.gradle\caches\transforms-3\a62a03744c318ab5d07d884e967248ac\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:9:5-89:19
+25        android:name="com.mscompany.stickersms.StickerApplication"
+25-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:10:13-71
+26        android:allowBackup="false"
+26-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:11:13-40
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.9.0] C:\Users\Mohsen\.gradle\caches\transforms-3\a62a03744c318ab5d07d884e967248ac\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+28        android:dataExtractionRules="@xml/data_extraction_rules"
+28-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:20:49-105
+29        android:debuggable="true"
+30        android:fullBackupContent="false"
+30-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:12:13-46
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:13:13-47
+32        android:label="@string/app_name"
+32-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:14:13-45
+33        android:largeHeap="true"
+33-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:15:13-37
+34        android:roundIcon="@mipmap/ic_launcher"
+34-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:16:13-52
+35        android:supportsRtl="true"
+35-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:17:13-39
+36        android:testOnly="true"
+37        android:theme="@style/AppTheme" >
+37-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:18:13-44
+38        <activity
+38-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:22:9-24:43
+39            android:name="com.mscompany.stickersms.SplashActivity"
+39-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:23:17-71
+40            android:exported="false" />
+40-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:24:17-41
+41        <activity
+41-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:25:9-33:20
+42            android:name="com.mscompany.stickersms.EntryActivity"
+42-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:26:17-70
+43            android:exported="true" >
+43-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:27:17-40
+44            <intent-filter>
+44-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:28:13-32:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:29:17-68
+45-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:29:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:31:17-76
+47-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:31:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:34:9-36:76
+51            android:name="com.mscompany.stickersms.StickerPackListActivity"
+51-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:35:17-80
+52            android:label="@string/title_activity_sticker_packs_list" />
+52-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:36:17-74
+53        <activity
+53-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:37:9-43:20
+54            android:name="com.mscompany.stickersms.StickerPackDetailsActivity"
+54-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:38:17-83
+55            android:parentActivityName="com.mscompany.stickersms.StickerPackListActivity" >
+55-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:39:17-94
+56            <meta-data
+56-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:40:13-42:87
+57                android:name="android.support.PARENT_ACTIVITY"
+57-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:41:21-67
+58                android:value="com.mscompany.stickersms.StickerPackListActivity" />
+58-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:42:21-85
+59        </activity>
+60        <activity
+60-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:44:9-51:20
+61            android:name="com.mscompany.stickersms.StickerPackInfoActivity"
+61-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:45:17-80
+62            android:label="@string/title_activity_sticker_pack_info"
+62-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:46:17-73
+63            android:parentActivityName="com.mscompany.stickersms.StickerPackDetailsActivity" >
+63-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:47:17-97
+64            <meta-data
+64-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:40:13-42:87
+65                android:name="android.support.PARENT_ACTIVITY"
+65-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:41:21-67
+66                android:value="com.mscompany.stickersms.StickerPackDetailsActivity" />
+66-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:42:21-85
+67        </activity>
+68
+69        <provider
+70            android:name="com.mscompany.stickersms.StickerContentProvider"
+70-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:54:17-79
+71            android:authorities="com.mscompany.stickersms.stickercontentprovider"
+71-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:55:17-66
+72            android:enabled="true"
+72-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:56:17-39
+73            android:exported="true"
+73-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:57:17-40
+74            android:readPermission="com.whatsapp.sticker.READ" />
+74-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:58:17-67
+75
+76        <activity
+76-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:60:9-63:75
+77            android:name="com.mscompany.stickersms.DetailsActivity"
+77-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:61:17-72
+78            android:label="Stickers Collection"
+78-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:62:17-52
+79            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+79-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:63:17-73
+80        <activity
+80-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:64:9-66:75
+81            android:name="com.mscompany.stickersms.AboutActivity"
+81-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:65:17-70
+82            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+82-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:66:17-73
+83        <activity
+83-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:67:9-70:73
+84            android:name="com.dsphotoeditor.sdk.activity.DsPhotoEditorActivity"
+84-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:68:17-84
+85            android:screenOrientation="fullSensor"
+85-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:69:17-55
+86            android:theme="@android:style/Theme.Holo.NoActionBar" />
+86-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:70:17-70
+87        <activity
+87-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:71:9-74:73
+88            android:name="com.dsphotoeditor.sdk.activity.DsPhotoEditorStickerActivity"
+88-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:72:17-91
+89            android:screenOrientation="fullSensor"
+89-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:73:17-55
+90            android:theme="@android:style/Theme.Holo.NoActionBar" />
+90-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:74:17-70
+91        <activity
+91-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:76:9-80:59
+92            android:name="com.dsphotoeditor.sdk.activity.DsPhotoEditorTextActivity"
+92-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:77:17-88
+93            android:screenOrientation="fullSensor"
+93-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:78:17-55
+94            android:theme="@android:style/Theme.Holo.NoActionBar"
+94-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:79:17-70
+95            android:windowSoftInputMode="adjustPan" />
+95-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:80:17-56
+96        <activity
+96-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:81:9-84:73
+97            android:name="com.dsphotoeditor.sdk.activity.DsPhotoEditorCropActivity"
+97-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:82:17-88
+98            android:screenOrientation="fullSensor"
+98-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:83:17-55
+99            android:theme="@android:style/Theme.Holo.NoActionBar" />
+99-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:84:17-70
+100        <activity
+100-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:85:9-88:73
+101            android:name="com.dsphotoeditor.sdk.activity.DsPhotoEditorDrawActivity"
+101-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:86:17-88
+102            android:screenOrientation="fullSensor"
+102-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:87:17-55
+103            android:theme="@android:style/Theme.Holo.NoActionBar" />
+103-->C:\Users\Mohsen\Desktop\MSAStickers\app\src\main\AndroidManifest.xml:88:17-70
+104
+105        <provider
+105-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mohsen\.gradle\caches\transforms-3\4f072bef788a320bd21016961be6b924\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+106            android:name="androidx.startup.InitializationProvider"
+106-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mohsen\.gradle\caches\transforms-3\4f072bef788a320bd21016961be6b924\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+107            android:authorities="com.mscompany.stickersms.androidx-startup"
+107-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mohsen\.gradle\caches\transforms-3\4f072bef788a320bd21016961be6b924\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+108            android:exported="false" >
+108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mohsen\.gradle\caches\transforms-3\4f072bef788a320bd21016961be6b924\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+109            <meta-data
+109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mohsen\.gradle\caches\transforms-3\4f072bef788a320bd21016961be6b924\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+110                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+110-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mohsen\.gradle\caches\transforms-3\4f072bef788a320bd21016961be6b924\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+111                android:value="androidx.startup" />
+111-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mohsen\.gradle\caches\transforms-3\4f072bef788a320bd21016961be6b924\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+112            <meta-data
+112-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mohsen\.gradle\caches\transforms-3\f0e85b3bc2ec7ebab4a01aa81d85d7ad\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+113                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+113-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mohsen\.gradle\caches\transforms-3\f0e85b3bc2ec7ebab4a01aa81d85d7ad\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+114                android:value="androidx.startup" />
+114-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mohsen\.gradle\caches\transforms-3\f0e85b3bc2ec7ebab4a01aa81d85d7ad\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+115        </provider>
+116    </application>
+117
+118</manifest>

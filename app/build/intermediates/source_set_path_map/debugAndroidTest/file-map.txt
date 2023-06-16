@@ -1,0 +1,7 @@
+com.mscompany.stickersms.test.app-jetified-core-1.5.0-0 C:\Users\Mohsen\.gradle\caches\transforms-3\7e5a1d2aab270da65e3bd0023455ceb2\transformed\jetified-core-1.5.0\res
+com.mscompany.stickersms.test.app-jetified-annotation-experimental-1.3.0-1 C:\Users\Mohsen\.gradle\caches\transforms-3\8f8847886c248ecaefa1cc1af66813cc\transformed\jetified-annotation-experimental-1.3.0\res
+com.mscompany.stickersms.test.app-androidTest-2 C:\Users\Mohsen\Desktop\MSAStickers\app\build\generated\res\resValues\androidTest\debug
+com.mscompany.stickersms.test.app-androidTest-3 C:\Users\Mohsen\Desktop\MSAStickers\app\build\generated\res\rs\androidTest\debug
+com.mscompany.stickersms.test.app-mergeDebugAndroidTestResources-4 C:\Users\Mohsen\Desktop\MSAStickers\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.mscompany.stickersms.test.app-mergeDebugAndroidTestResources-5 C:\Users\Mohsen\Desktop\MSAStickers\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.mscompany.stickersms.test.app-merged_res-6 C:\Users\Mohsen\Desktop\MSAStickers\app\build\intermediates\merged_res\debugAndroidTest
