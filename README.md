@@ -1,5 +1,9 @@
 # WhatsAppStickers VS Photo Editor
-Simple & clean stickers for WhatsApp.
+Simple & clean stickers for WhatsApp & Photo Editor.
+
+
+edited photo will have the same size as input image, even though the input photo is an HD photo. However, on older devices with Android Kitkat and Jelly Bean, the output photo will have similar amount of pixels as the device screen, so that the performance of the photo editor can be smooth on older devices.
+Photo editing consumes much more memory than other operations on mobile devices, so please make sure that you use a proper size for input images. If your app already uses a lot of memory before launching our photo editor, passing in an HD image could use up all the memory allocated to your app.
 
 How to use:
 
