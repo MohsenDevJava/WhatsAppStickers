@@ -1,4 +1,4 @@
-# WhatsAppStickers
+# WhatsAppStickers VS Photo Editor
 Simple & clean stickers for WhatsApp.
 
 How to use:
